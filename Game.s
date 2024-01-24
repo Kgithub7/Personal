@@ -1,20 +1,3 @@
-#***************************************
-#
-# Name: Kobi Njoku 
-# Email: knjoku@hawk.iit.edu 
-# Course: CS350 
-# Assignment: Project 2
-# Summary of Assignment Purpose: To use create a game that the user can play on the console. 
-# Date of Initial Creation: 30/11/2023 
-#
-# Description of Program Purpose: To gain a better understanding of MIPS. 
-#
-# Functions and Modules in this file: N/A
-#
-# Additional Required Files: N/A
-#
-#***************************************
-
 .data 0x10002000
 static:
 .ascii "\n  #?  ##"
